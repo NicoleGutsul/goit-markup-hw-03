@@ -89,11 +89,6 @@ body {
   color: inherit;
 }
 
-p {
-  padding: 0;
-  margin: 0;
-}
-
 /* Button */
 
 .button {
@@ -316,6 +311,11 @@ p {
   width: 231px;
   height: 21px;
   line-height: 24px;
+  padding-top: 9px;
+}
+
+.footer-item {
+  padding-top: 9px;
 }
 
 .footer-link {
@@ -333,10 +333,6 @@ p {
 /* Portfolio */
 
 /* Works */
-
-.works-nav {
-  margin-bottom: 50px;
-}
 
 .works-nav .button {
   font-weight: 500;
